@@ -48,7 +48,7 @@ Les arbres de décision ont aussi des inconvénients parmi lesquels on cite :
 - Les arbres de décision sont peu robustes, un petit changement dans le set de training pourrait entrainer un grand changement dans la structure de l’arbre et par conséquent le résultat final;
 	
 - L’arbre idéal est l’arbre dont la profondeur est le plus petit possible, c’est-à-dire avec moins de divisions, car plus il y a des divisions plus l’arbre se complexifie, et plus il y a un risque d’Overfiting . Cependant, il y a des techniques tels que l'élagage, la définition du nombre minimum d'échantillons requis à un nœud feuille ou la définition de la profondeur maximale de l'arbre sont nécessaires pour éviter ce problème.
--  
+
 Pour pallier à tous ces inconvénients d’arbres de décision, les forêts aléatoires (ou Random Forest) ont vu le jour. 
 Comment coder un algorithme d’Arbre de Décision pour la classification
 
