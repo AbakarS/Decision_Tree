@@ -60,7 +60,7 @@ Pour construire un Arbre de Décision pour un problème de classification, il fa
 
 **Gini** : Il s’agit d’un critère permettant de mesurer la qualité ou la pureté d’une division. En effet, le criterion de gini permet de calculer l’impureté de chaque nœud d’un Arbre de Décision. A partir de cet indice d’impureté, on calcule le coût d’un nœud, ce qui permettra de construire l’Arbre, en commençant par le nœud a le plus faible coût. Considérez un ensemble de données F qui contient des échantillons de k classes. La probabilité d'appartenance d'échantillons à une classe j à un nœud donné peut être notée pi. Alors l'impureté de Gini est définie comme :
 
-Gini(F)=1-∑_(j=i)^k▒P_j^2 
+![image](https://user-images.githubusercontent.com/88625171/182032363-49c0f2eb-90e3-4520-8b9b-b4b028c6155b.png)
 
 NB : l’impureté de gini est comprise entre 0 et 0.5
 Le coût de nœud : c’est le coût de la règle de décision derrière la construction de ce nœud, il nous permet de savoir à quel point cette décision est bonne ou pas. Cliquer ici pour plus détails sur l’indice de gini et le coût d’un nœud. Consulter ce lien pour l’entropy. 
