@@ -10,7 +10,7 @@ L’arbre de décision est alors composé  :
 - Des nœuds internes qui conditionnent la suite de l’arbre en se basant sur des règles de décision. Les nœuds qui débouchent sur d’autres nœuds sont appelés des nœuds parents tandis que les nœuds découlant d’autres nœuds sont appelés des nœuds enfants et ainsi de suite. Un nœud qui n’a aucun nœud enfant est appelé nœud feuille prédisant la sortie;
 - Des branches qui connectent les nœuds entre eux. 
 - 
-Prenons l’exemple suivant pour comprendre les règles de décision d’un arbre de décision : Cet exemple est présenté tel qu’il est récupéré de l’article publié en 2019 par Professeure  Neila Mezghani 
+Prenons l’exemple suivant pour comprendre les règles de décision d’un arbre de décision : Cet exemple est présenté tel qu’il est récupéré de l’article publié en 2019 par Professeure  Neila Mezghani [lien](lien)https://www.google.com/search?q=Neila+Mezghani%2C+inf1421+module+7+arbre+de+decision+janvier+2019&rlz=1C1GCEA_frFR931FR931&oq=Neila+Mezghani%2C+inf1421+module+7+arbre+de+decision+janvier+2019&aqs=chrome..69i57.2661j0j4&sourceid=chrome&ie=UTF-8#:~:text=R%C3%A9sultats%20Web-,Module%207%20Arbres%20de%20d%C3%A9cision,-http%3A//inf1421.teluq&mmc=1)
 
 Figure
 
